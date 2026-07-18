@@ -1,3 +1,7 @@
+# =====================================================================
+# Yamaha Style voice remap  credit by : Sugex https://github.com/sugex
+# =====================================================================
+
 import mido
 import os
 import tkinter as tk
